@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T23:07:48+08:00",
+ "generated_at": "2026-11-05T23:31:03+08:00",
  "projects": [
   {
    "flowCount": 3,
@@ -1205,23 +1205,6 @@
     "y": 380
    },
    {
-    "createdAt": "2026-11-05T10:02:49.376Z",
-    "id": 17,
-    "mediaKind": "text",
-    "mediaUrl": "",
-    "meta": "{\"cutVersion\":\"v1\",\"totalDuration\":\"待产出后登记\",\"timeline\":\"待填写\"}",
-    "nodeType": "edit",
-    "owner": "剪辑合成",
-    "projectId": 3,
-    "shotNo": "全片",
-    "sourceTaskId": 7,
-    "status": "待产出",
-    "title": "全片 · 剪辑合成",
-    "updatedAt": "2026-11-05T10:02:49.376Z",
-    "x": 1440,
-    "y": 720
-   },
-   {
     "createdAt": "2026-11-05T13:54:31.091Z",
     "id": 21,
     "mediaKind": "image",
@@ -1923,15 +1906,15 @@
     "id": 62,
     "mediaKind": "text",
     "mediaUrl": "",
-    "meta": "{\"outFormat\":\"待补\",\"outPixFmt\":\"待补\",\"outFps\":\"待补\",\"outResolution\":\"待补\",\"scriptFile\":\"待补（合成脚本已有 D06v3-composite.py；代码动态化脚本待首帧过审后产出）\",\"cutParams\":\"待补：D06 首帧（合成验证图 v3）过审后走代码动态化，参数届时登记。\",\"versionNote\":\"未出：视频未产出。\"}",
+    "meta": "{\"outFormat\":\"h264 / mp4\",\"outPixFmt\":\"yuv420p\",\"outFps\":\"24\",\"outResolution\":\"704×1248\",\"outDuration\":\"3.0s\",\"outFrames\":\"72\",\"fileSize\":\"307,537 B\",\"sha256\":\"4cf5780ff9f91b0195be62f667321a9ba30394bc821ea72b84db8ff4fef69474\",\"scriptFile\":\"D06-code-animate.py\",\"cutParams\":\"代码动态化：D06 首帧（合成验证图 v3）过审后走代码动态化；输出 3.0s/72 帧，704×1248/24fps，307,537 B，sha 4cf5780f…（与视频节点 61 一致）。\",\"versionNote\":\"已产出：视频节点 61 已产出（3.0s/72f）。\"}",
     "nodeType": "param",
     "owner": "剪辑合成",
     "projectId": 3,
     "shotNo": "D06",
     "sourceTaskId": null,
-    "status": "待产出",
-    "title": "D06 · 定剪/代码动态化参数（待产出）",
-    "updatedAt": "2026-11-05T13:54:31.091Z",
+    "status": "已产出",
+    "title": "D06 · 定剪/代码动态化参数",
+    "updatedAt": "2026-11-05T15:22:31.355Z",
     "x": 1840,
     "y": 3600
    },
@@ -2399,15 +2382,15 @@
     "id": 90,
     "mediaKind": "text",
     "mediaUrl": "",
-    "meta": "{\"outFormat\":\"待补\",\"outPixFmt\":\"待补\",\"outFps\":\"待补\",\"outResolution\":\"待补\",\"scriptFile\":\"D10-code-animate.py\",\"cutParams\":\"待确认：是否算已出待总调度确认，本节点不作已出登记。剪辑产出 README 已记录该文件的代码动态化参数：三拍各 40 帧——拍点 1 筷子带火腿青椒下压 12px、火腿青椒淡出入锅、筷子空手升回；拍点 2 三块蓬松嫩蛋淡入锅内、筷子轻晃 ±2°；拍点 3 金棕粉（D01 成品层整层）交叉淡入满锅、筷子轻晃 + 上提 10px；呼吸感沿用 D01 参数组；运动惯性三条已执行。\",\"versionNote\":\"目录中已有 D10-代码动态化-5s.mp4，是否算已出待总调度确认。\"}",
+    "meta": "{\"outFormat\":\"h264 / mp4\",\"outPixFmt\":\"yuv420p\",\"outFps\":\"24\",\"outResolution\":\"704×1248\",\"outDuration\":\"5.0s\",\"outFrames\":\"120\",\"fileSize\":\"399,664 B\",\"sha256\":\"83622075490bae87ff10d89ed882fcea7030447c75554f588d2414a688078187\",\"scriptFile\":\"D10-code-animate.py\",\"cutParams\":\"已产出（总调度已裁定 D10 算已出）：剪辑产出 README 已记录该文件的代码动态化参数：三拍各 40 帧——拍点 1 筷子带火腿青椒下压 12px、火腿青椒淡出入锅、筷子空手升回；拍点 2 三块蓬松嫩蛋淡入锅内、筷子轻晃 ±2°；拍点 3 金棕粉（D01 成品层整层）交叉淡入满锅、筷子轻晃 + 上提 10px；呼吸感沿用 D01 参数组；运动惯性三条已执行。\",\"versionNote\":\"已产出：总调度已裁定 D10 算已出；视频节点 89 已产出（5.0s/120f）。\"}",
     "nodeType": "param",
     "owner": "剪辑合成",
     "projectId": 3,
     "shotNo": "D10",
     "sourceTaskId": null,
-    "status": "待产出",
-    "title": "D10 · 代码动态化参数（待确认）",
-    "updatedAt": "2026-11-05T13:54:31.091Z",
+    "status": "已产出",
+    "title": "D10 · 代码动态化参数",
+    "updatedAt": "2026-11-05T15:22:31.526Z",
     "x": 1840,
     "y": 5520
    },
@@ -2501,7 +2484,7 @@
     "id": 96,
     "mediaKind": "video",
     "mediaUrl": "wf:vid-d11",
-    "meta": "{\"format\":\"h264 / mp4\",\"codec\":\"h264\",\"pixFmt\":\"yuv420p\",\"crf\":\"待补\",\"fps\":\"24\",\"resolution\":\"704×1248\",\"duration\":\"4.0s\",\"frames\":\"96\",\"fileSize\":\"326,478 B\",\"sha256\":\"f9f5cb668f37da612e9f11af3205376722d98cd946d296d0bf1f3a5926cab1ba\",\"sourceFile\":\"D11-代码动态化-4s.mp4\",\"sourcePath\":\"复刻火爆视频/剪辑产出/D11-代码动态化-4s.mp4\"}",
+    "meta": "{\"format\":\"h264 / mp4\",\"codec\":\"h264\",\"pixFmt\":\"yuv420p\",\"crf\":\"待补\",\"fps\":\"24\",\"resolution\":\"704×1248\",\"duration\":\"4.0s\",\"frames\":\"96\",\"fileSize\":\"407,608 B\",\"sha256\":\"783f319d88956df35946b24e0ea4c0ea90f4923b0d172a8c3a355168c64448f4\",\"sourceFile\":\"D11-代码动态化-4s.mp4\",\"sourcePath\":\"复刻火爆视频/剪辑产出/D11-代码动态化-4s.mp4\",\"scriptFile\":\"D11-code-animate-v2.py\",\"versionNote\":\"成片 v3 回炉时重跑，22:48 落盘；旧值 326,478 B / sha f9f5cb66… 已过期作废。\"}",
     "nodeType": "video",
     "owner": "制作执行",
     "projectId": 3,
@@ -2509,7 +2492,7 @@
     "sourceTaskId": null,
     "status": "已产出",
     "title": "D11 · 视频（代码动态化成片）",
-    "updatedAt": "2026-11-05T14:31:48.660Z",
+    "updatedAt": "2026-11-05T15:22:31.727Z",
     "x": 1540,
     "y": 6000
    },
@@ -2518,15 +2501,15 @@
     "id": 97,
     "mediaKind": "text",
     "mediaUrl": "",
-    "meta": "{\"outFormat\":\"待补\",\"outPixFmt\":\"待补\",\"outFps\":\"待补\",\"outResolution\":\"待补\",\"scriptFile\":\"待补（合成脚本已有 D11v3-composite.py；代码动态化脚本待首帧过审后产出）\",\"cutParams\":\"待补：D11 首帧（合成验证图 v3）过审后走代码动态化，参数届时登记。\",\"versionNote\":\"未出：视频未产出。\"}",
+    "meta": "{\"outFormat\":\"h264 / mp4\",\"outPixFmt\":\"yuv420p\",\"outFps\":\"24\",\"outResolution\":\"704×1248\",\"outDuration\":\"4.0s\",\"outFrames\":\"96\",\"fileSize\":\"407,608 B\",\"sha256\":\"783f319d88956df35946b24e0ea4c0ea90f4923b0d172a8c3a355168c64448f4\",\"scriptFile\":\"D11-code-animate-v2.py\",\"cutParams\":\"代码动态化 v2：D11 首帧（合成验证图 v3）过审后走代码动态化；成片 v3 回炉时重跑（22:48 落盘）；输出 4.0s/96 帧，704×1248/24fps，407,608 B，sha 783f319d…（与视频节点 96 一致）。\",\"versionNote\":\"已产出：视频节点 96 已更新为重跑后的新文件（22:48 落盘）。\"}",
     "nodeType": "param",
     "owner": "剪辑合成",
     "projectId": 3,
     "shotNo": "D11",
     "sourceTaskId": null,
-    "status": "待产出",
-    "title": "D11 · 定剪/代码动态化参数（待产出）",
-    "updatedAt": "2026-11-05T13:54:31.091Z",
+    "status": "已产出",
+    "title": "D11 · 定剪/代码动态化参数",
+    "updatedAt": "2026-11-05T15:22:31.453Z",
     "x": 1840,
     "y": 6000
    },
@@ -2648,6 +2631,74 @@
     "updatedAt": "2026-11-05T13:54:31.091Z",
     "x": 1840,
     "y": 6480
+   },
+   {
+    "createdAt": "2026-11-05T15:21:00.764Z",
+    "id": 114,
+    "mediaKind": "video",
+    "mediaUrl": "",
+    "meta": "{\"version\":\"v1\",\"format\":\"h264 / mp4\",\"codec\":\"h264\",\"pixFmt\":\"yuv420p\",\"crf\":\"待补\",\"fps\":\"24\",\"resolution\":\"704×1248\",\"duration\":\"47.0s\",\"frames\":\"1128\",\"fileSize\":\"6,648,401 B\",\"sha256\":\"9f462e828f978d875303e4fa1cbc3e0f60544431a0a5cb0c8638f4e7fb9109f8\",\"sourceFile\":\"成片-v1.mp4\",\"sourcePath\":\"复刻火爆视频/剪辑产出/成片-v1.mp4\",\"note\":\"画面版；v2 在此基础上混音，视频流直接复制（28s 抽帧与 v1 逐字节一致）。\"}",
+    "nodeType": "video",
+    "owner": "剪辑合成",
+    "projectId": 3,
+    "shotNo": "全片",
+    "sourceTaskId": 7,
+    "status": "已产出",
+    "title": "成片 · v1（画面版）",
+    "updatedAt": "2026-11-05T15:21:00.764Z",
+    "x": 40,
+    "y": 6960
+   },
+   {
+    "createdAt": "2026-11-05T15:21:05.646Z",
+    "id": 115,
+    "mediaKind": "video",
+    "mediaUrl": "",
+    "meta": "{\"version\":\"v2\",\"format\":\"h264 / mp4\",\"codec\":\"h264\",\"pixFmt\":\"yuv420p\",\"crf\":\"待补\",\"fps\":\"24\",\"resolution\":\"704×1248\",\"duration\":\"47.0s\",\"frames\":\"1128\",\"fileSize\":\"7,803,494 B\",\"sha256\":\"ce984ad89debaf4bf4cbd93229edc2c08ce8f61ffff7f42a2f8790417999445e\",\"sourceFile\":\"成片-v2.mp4\",\"sourcePath\":\"复刻火爆视频/剪辑产出/成片-v2.mp4\",\"note\":\"混音版：按配音声景表 v1 接入 BGM 整轨 ×0.85、厨房底噪 ×0.6、12 段 SFX 各 ×0.75 并按段起点延时对齐；终混峰值 -3.9dB；画面与 v1 一字不动。终审：音频通过、画面有条件通过。\"}",
+    "nodeType": "video",
+    "owner": "剪辑合成",
+    "projectId": 3,
+    "shotNo": "全片",
+    "sourceTaskId": 7,
+    "status": "已产出",
+    "title": "成片 · v2（混音版）",
+    "updatedAt": "2026-11-05T15:21:05.646Z",
+    "x": 340,
+    "y": 6960
+   },
+   {
+    "createdAt": "2026-11-05T15:21:10.926Z",
+    "id": 116,
+    "mediaKind": "video",
+    "mediaUrl": "",
+    "meta": "{\"version\":\"v3\",\"format\":\"h264 / mp4\",\"codec\":\"h264\",\"pixFmt\":\"yuv420p\",\"crf\":\"待补\",\"fps\":\"24\",\"resolution\":\"704×1248\",\"duration\":\"47.0s\",\"frames\":\"1128\",\"fileSize\":\"7,880,343 B\",\"sha256\":\"325316505391878592be80556bda038b0e64af9431a6b9cb73c105382182e49d\",\"sourceFile\":\"成片-v3.mp4\",\"sourcePath\":\"复刻火爆视频/剪辑产出/成片-v3.mp4\",\"note\":\"现行版：v2 基础上回炉 D11 后两拍（孜然粉/辣椒面撒料动作肉眼可见、拍末留堆积），22:52 复验通过（已发 Ronald 预览）；其余画面与音频沿用 v2 结论；未定版收尾（复刻项目已叫停）。\"}",
+    "nodeType": "video",
+    "owner": "剪辑合成",
+    "projectId": 3,
+    "shotNo": "全片",
+    "sourceTaskId": 7,
+    "status": "已产出",
+    "title": "成片 · v3（现行）",
+    "updatedAt": "2026-11-05T15:22:08.062Z",
+    "x": 640,
+    "y": 6960
+   },
+   {
+    "createdAt": "2026-11-05T15:21:17.367Z",
+    "id": 117,
+    "mediaKind": "audio",
+    "mediaUrl": "",
+    "meta": "{\"soundscapeVersion\":\"声景表 v1\",\"tracks\":\"BGM 整轨 47.000s + 厨房底噪 47.000s + 12 段 SFX（D01 3s、D02 5s、D03 4s、D04 4s、D05 5s、D06 3s、D07 5s、D08 2s、D09 4s、D10 5s、D11 4s、D12 3s）\",\"format\":\"WAV 48kHz/16-bit/立体声\",\"totalSize\":\"27,072,616 B\",\"mix\":\"BGM ×0.85、底噪 ×0.6、SFX ×0.75，终混峰值 -3.9dB\",\"sourcePath\":\"复刻火爆视频/配音产出/\",\"scriptFile\":\"synth_soundscape.py\"}",
+    "nodeType": "audio",
+    "owner": "配音",
+    "projectId": 3,
+    "shotNo": "全片",
+    "sourceTaskId": null,
+    "status": "已产出",
+    "title": "成片 · 声景/BGM（声景表 v1 + 14 分轨）",
+    "updatedAt": "2026-11-05T15:21:17.367Z",
+    "x": 940,
+    "y": 6960
    }
   ],
   "edges": [
@@ -2708,20 +2759,6 @@
     "toNodeId": 6
    },
    {
-    "fromNodeId": 6,
-    "id": 9,
-    "label": "",
-    "projectId": 3,
-    "toNodeId": 17
-   },
-   {
-    "fromNodeId": 7,
-    "id": 10,
-    "label": "",
-    "projectId": 3,
-    "toNodeId": 17
-   },
-   {
     "fromNodeId": 9,
     "id": 11,
     "label": "",
@@ -2776,20 +2813,6 @@
     "label": "核查",
     "projectId": 3,
     "toNodeId": 14
-   },
-   {
-    "fromNodeId": 14,
-    "id": 19,
-    "label": "",
-    "projectId": 3,
-    "toNodeId": 17
-   },
-   {
-    "fromNodeId": 15,
-    "id": 20,
-    "label": "",
-    "projectId": 3,
-    "toNodeId": 17
    },
    {
     "fromNodeId": 21,
@@ -3294,6 +3317,111 @@
     "label": "",
     "projectId": 3,
     "toNodeId": 104
+   },
+   {
+    "fromNodeId": 114,
+    "id": 104,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 115
+   },
+   {
+    "fromNodeId": 115,
+    "id": 105,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 33,
+    "id": 106,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 47,
+    "id": 107,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 26,
+    "id": 108,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 40,
+    "id": 109,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 75,
+    "id": 110,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 61,
+    "id": 111,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 54,
+    "id": 112,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 68,
+    "id": 113,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 103,
+    "id": 114,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 117,
+    "id": 115,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 89,
+    "id": 116,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 82,
+    "id": 117,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
+   },
+   {
+    "fromNodeId": 96,
+    "id": 118,
+    "label": "",
+    "projectId": 3,
+    "toNodeId": 116
    }
   ]
  }
