@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T21:04:30+08:00",
+ "generated_at": "2026-11-06T21:51:22+08:00",
  "projects": [
   {
    "flowCount": 3,
@@ -785,6 +785,16 @@
  ],
  "interactions": [
   {
+   "content": "执行者将流转「为复刻项目加无限画布（节点+连线+元信息）」状态改为已完成（豆包（总调度室） ← 执行者）",
+   "createdAt": "2026-11-05T11:14:46.341Z",
+   "fromName": "执行者",
+   "id": 25,
+   "projectId": 2,
+   "relatedTaskTitle": "为复刻项目加无限画布（节点+连线+元信息）",
+   "toName": "豆包（总调度室）",
+   "type": "回报"
+  },
+  {
    "content": "拉片员将流转「逐帧拉片并产出分镜表（待目标视频确定后启动）」状态改为已完成（豆包（总调度室） ← 拉片员）",
    "createdAt": "2026-11-05T11:33:24.847Z",
    "fromName": "拉片员",
@@ -962,16 +972,6 @@
    "projectId": 5,
    "relatedTaskTitle": "",
    "toName": "发布运营",
-   "type": "组建"
-  },
-  {
-   "content": "空间开发加入项目《Gate 接入》，担任空间展示",
-   "createdAt": "2026-11-06T03:55:34.424Z",
-   "fromName": "豆包（总调度室）",
-   "id": 56,
-   "projectId": 6,
-   "relatedTaskTitle": "",
-   "toName": "空间开发",
    "type": "组建"
   },
   {
